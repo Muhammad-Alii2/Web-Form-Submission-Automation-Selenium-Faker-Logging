@@ -1,0 +1,4 @@
+First_Name,Last_Name,Email,Gender,Phone_Number,Birth_Date,Favorite_Subjects,Hobbies,Picture_Path,Address,State,City
+Ali,Iyer,aliiyer00@gmail.com,Male,1873122733,26/05/2000,"English, Chemistry","Sports, Music",D:\example\test1.jpg,"Banaras Bacha Khan Chowk, Karachi",NCR,Delhi
+Bilal,Khatri,bilalalkhatri@gmail.com,Female,16197497803,4/12/1999,"Maths, Biology, Accounting",Reading,D:\example\test2.jpg,"Sector 6-F, Korangi",Haryana,Panipat
+Ahmed,Raza,razaahmed99@gmail.com,Other,13012836038,11/1/2001,Chemistry,"Reading, Music",D:\example\test3.jpg,Jinnah St. Ramswami,Rajasthan,Jaipur
